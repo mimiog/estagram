@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B8C5AE5A-4FCC-4758-A40B-4BC03C702A19"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Estagram/feedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "feedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - bde1a3469620c547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - dd3b6d29de0114b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - 7e1d566371ba2e5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - cdc8f4b93978696a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - d3b77907bfee3c15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Estagram.feedViewController"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "08AF7024-BF7C-44EA-99D0-B85AD5383583 - e690834845fd330f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Estagram.feedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Estagram.feedViewController&gt;"
+                  moduleName = "Estagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mimiogunyemi/Desktop/Estagram/Estagram/feedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

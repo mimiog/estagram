@@ -1,0 +1,6 @@
+framework module Pods_Estagram_EstagramUITests {
+  umbrella header "Pods-Estagram-EstagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
