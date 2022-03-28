@@ -21,6 +21,8 @@
 		1499B73F27EE567C00DBD56D /* cameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1499B73E27EE567C00DBD56D /* cameraViewController.swift */; };
 		1499B74227EE5AA900DBD56D /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 1499B74127EE5AA900DBD56D /* AlamofireImage */; };
 		1499B74427EEA46F00DBD56D /* postCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1499B74327EEA46F00DBD56D /* postCell.swift */; };
+		14FDE05327F1762300F374C3 /* commentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FDE05227F1762300F374C3 /* commentCell.swift */; };
+		14FDE05527F21E4E00F374C3 /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FDE05427F21E4E00F374C3 /* profileViewController.swift */; };
 		34ED09C55C5A05D1EC0CF556 /* Pods_EstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66349A8BE27316206B2F3D38 /* Pods_EstagramTests.framework */; };
 		3D83BFD68DC67232EEA450C1 /* Pods_Estagram_EstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DD3A68E3F371650D57B87D4 /* Pods_Estagram_EstagramUITests.framework */; };
 		C6B84A68DE5C3D10B044E34B /* Pods_Estagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3230DAF6936C1B4E9EC018D6 /* Pods_Estagram.framework */; };
@@ -61,6 +63,8 @@
 		1499B73C27EE46CB00DBD56D /* feedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feedViewController.swift; sourceTree = "<group>"; };
 		1499B73E27EE567C00DBD56D /* cameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cameraViewController.swift; sourceTree = "<group>"; };
 		1499B74327EEA46F00DBD56D /* postCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postCell.swift; sourceTree = "<group>"; };
+		14FDE05227F1762300F374C3 /* commentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commentCell.swift; sourceTree = "<group>"; };
+		14FDE05427F21E4E00F374C3 /* profileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
 		272266D3768DF0E5DA7124BB /* Pods-Estagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Estagram.debug.xcconfig"; path = "Target Support Files/Pods-Estagram/Pods-Estagram.debug.xcconfig"; sourceTree = "<group>"; };
 		3230DAF6936C1B4E9EC018D6 /* Pods_Estagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Estagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		383FC9273D9A3192642AD929 /* Pods-Estagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Estagram.release.xcconfig"; path = "Target Support Files/Pods-Estagram/Pods-Estagram.release.xcconfig"; sourceTree = "<group>"; };
@@ -136,6 +140,8 @@
 				1499B73C27EE46CB00DBD56D /* feedViewController.swift */,
 				1499B73E27EE567C00DBD56D /* cameraViewController.swift */,
 				1499B74327EEA46F00DBD56D /* postCell.swift */,
+				14FDE05227F1762300F374C3 /* commentCell.swift */,
+				14FDE05427F21E4E00F374C3 /* profileViewController.swift */,
 			);
 			path = Estagram;
 			sourceTree = "<group>";
@@ -428,10 +434,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				1499B70827EE315F00DBD56D /* AppDelegate.swift in Sources */,
+				14FDE05327F1762300F374C3 /* commentCell.swift in Sources */,
 				1499B74427EEA46F00DBD56D /* postCell.swift in Sources */,
 				1499B70A27EE315F00DBD56D /* SceneDelegate.swift in Sources */,
 				1499B73F27EE567C00DBD56D /* cameraViewController.swift in Sources */,
 				1499B73D27EE46CB00DBD56D /* feedViewController.swift in Sources */,
+				14FDE05527F21E4E00F374C3 /* profileViewController.swift in Sources */,
 				1499B73B27EE46A700DBD56D /* loginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -6,8 +6,11 @@ target 'Estagram' do
   use_frameworks!
 
   # Pods for Estagram
+   
 
     pod "Parse"
+    pod "MessageInputBar"
+
 
   target 'EstagramTests' do
     inherit! :search_paths
